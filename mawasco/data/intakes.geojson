@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "intakes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Latitude": -0.361911, "Longitude": 37.162785, "Name": "Ragati weir", "Daily yield in cubic meters (73)": "gravity", "Type (gravity, pump)": "Mathira Water", "Ownership (WSB,WSP)": "active", "Owner (NAWASCO,)": null, "Date Installed (2013-08-01)": null, "License (License Number from WRA)": null, "Status ( Active, Closed)": null, "Comments": null }, "geometry": { "type": "Point", "coordinates": [ 37.162785, -0.361911 ] } },
+{ "type": "Feature", "properties": { "Latitude": -0.435819, "Longitude": 37.149583, "Name": "Ihwagi weir", "Daily yield in cubic meters (73)": "gravity", "Type (gravity, pump)": "Mathira Water", "Ownership (WSB,WSP)": "active", "Owner (NAWASCO,)": null, "Date Installed (2013-08-01)": null, "License (License Number from WRA)": null, "Status ( Active, Closed)": null, "Comments": null }, "geometry": { "type": "Point", "coordinates": [ 37.149583, -0.435819 ] } }
+]
+}

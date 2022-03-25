@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "treatment",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Latitude": 36.874845, "Longitude": -0.425164, "Name": "IHWa", "Daily yield in cubic meters (73)": "21:00:03", "Type (gravity, pump)": "gravity", "Ownership (WSB,WSP)": "TWSB", "Owner (NAWASCO,)": "NYEWASCO", "Date Installed (2013-08-01)": "active", "License (License Number from WRA)": null, "Status ( Active, Closed)": null, "Comments": null }, "geometry": { "type": "Point", "coordinates": [ 36.874845, -0.425164 ] } }
+]
+}

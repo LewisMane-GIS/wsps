@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "tanks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "MH_ID": null, "CAPACITY": "50m3", "MH_GRID": null, "Name": "Outspan Tank", "Height": 1835, "Status": "Existing", "Design": "Concrete", "x_1": 36.934785, "y_1": -0.422041 }, "geometry": { "type": "Point", "coordinates": [ 36.934785, -0.422041 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "MH_ID": null, "CAPACITY": "2500m3", "MH_GRID": null, "Name": "Tetu Tank", "Height": 1986, "Status": "Existing", "Design": "Concrete", "x_1": 36.908433, "y_1": -0.43643 }, "geometry": { "type": "Point", "coordinates": [ 36.908433, -0.43643 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "MH_ID": null, "CAPACITY": "50m3", "MH_GRID": null, "Name": "Ngangarithi tank", "Height": 0, "Status": "Existing", "Design": "Concrete", "x_1": 36.943502, "y_1": -0.438166 }, "geometry": { "type": "Point", "coordinates": [ 36.943502, -0.438166 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "MH_ID": null, "CAPACITY": "500m3", "MH_GRID": null, "Name": "Mathari Tanks", "Height": 1939, "Status": "Existing", "Design": "Concrete", "x_1": 36.913797, "y_1": -0.409916 }, "geometry": { "type": "Point", "coordinates": [ 36.913797, -0.409916 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "MH_ID": null, "CAPACITY": "100m3", "MH_GRID": null, "Name": "Nyeri Hill New", "Height": 2051, "Status": "Existing", "Design": "Concrete", "x_1": 36.910426, "y_1": -0.409854 }, "geometry": { "type": "Point", "coordinates": [ 36.910426, -0.409854 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "MH_ID": null, "CAPACITY": "2500m3", "MH_GRID": null, "Name": "Hill Farm", "Height": 1861, "Status": "Existing", "Design": "Concrete", "x_1": 36.931721, "y_1": -0.414691 }, "geometry": { "type": "Point", "coordinates": [ 36.931721, -0.414691 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "MH_ID": null, "CAPACITY": "100m3", "MH_GRID": null, "Name": "Mt Kenya Booster tank", "Height": 1763, "Status": "Existing", "Design": "Concrete", "x_1": 37.013623, "y_1": -0.344376 }, "geometry": { "type": "Point", "coordinates": [ 37.013623, -0.344376 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "MH_ID": null, "CAPACITY": "50m3", "MH_GRID": null, "Name": "Mt kenya elevated tank", "Height": 1870, "Status": "Existing", "Design": "Steel", "x_1": 37.018594, "y_1": -0.323144 }, "geometry": { "type": "Point", "coordinates": [ 37.018594, -0.323144 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "MH_ID": null, "CAPACITY": "5000m3", "MH_GRID": null, "Name": "Kamakwa", "Height": 1863, "Status": null, "Design": "Masonry", "x_1": 36.92582, "y_1": -0.42528 }, "geometry": { "type": "Point", "coordinates": [ 36.92582, -0.42528 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "MH_ID": null, "CAPACITY": "1135m3", "MH_GRID": null, "Name": "Kamakwa", "Height": 1865, "Status": null, "Design": "Concrete", "x_1": 36.925609, "y_1": -0.425577 }, "geometry": { "type": "Point", "coordinates": [ 36.925609, -0.425577 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11, "MH_ID": null, "CAPACITY": "225m3", "MH_GRID": null, "Name": "Rwanyaga", "Height": 1760, "Status": "Existing", "Design": "Masonary", "x_1": 37.056646, "y_1": -0.453797 }, "geometry": { "type": "Point", "coordinates": [ 37.056646, -0.453797 ] } }
+]
+}
